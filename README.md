@@ -157,8 +157,16 @@ If you want the website or application behavior, use the links above to access t
 
 - [Product overview](./docs/product-overview.md)
 - [Comparison pages summary](./docs/comparison.md)
+- [RescueTime alternative](./docs/rescuetime-alternative.md)
+- [ActivityWatch alternative](./docs/activitywatch-alternative.md)
+- [Mac time tracker guide](./docs/mac-time-tracker.md)
+- [Windows time tracker guide](./docs/windows-time-tracker.md)
 - [Chinese overview](./docs/product-overview.zh-CN.md)
 - [Chinese comparison](./docs/comparison.zh-CN.md)
+- [RescueTime 替代品](./docs/rescuetime-alternative.zh-CN.md)
+- [ActivityWatch 替代品](./docs/activitywatch-alternative.zh-CN.md)
+- [Mac 时间追踪工具](./docs/mac-time-tracker.zh-CN.md)
+- [Windows 时间追踪工具](./docs/windows-time-tracker.zh-CN.md)
 
 ## Related Links
 
@@ -169,4 +177,3 @@ If you want the website or application behavior, use the links above to access t
 - About: https://www.timesflow.app/about
 - Releases: https://www.timesflow.app/releases
 - News: https://www.timesflow.app/news
-

@@ -162,8 +162,16 @@ TimesFlow 强调本地优先。
 
 - [产品概览](./docs/product-overview.zh-CN.md)
 - [竞品对比](./docs/comparison.zh-CN.md)
+- [RescueTime 替代品](./docs/rescuetime-alternative.zh-CN.md)
+- [ActivityWatch 替代品](./docs/activitywatch-alternative.zh-CN.md)
+- [Mac 时间追踪工具](./docs/mac-time-tracker.zh-CN.md)
+- [Windows 时间追踪工具](./docs/windows-time-tracker.zh-CN.md)
 - [English overview](./docs/product-overview.md)
 - [English comparison](./docs/comparison.md)
+- [RescueTime alternative](./docs/rescuetime-alternative.md)
+- [ActivityWatch alternative](./docs/activitywatch-alternative.md)
+- [Mac time tracker guide](./docs/mac-time-tracker.md)
+- [Windows time tracker guide](./docs/windows-time-tracker.md)
 
 ## 相关链接
 
@@ -174,4 +182,3 @@ TimesFlow 强调本地优先。
 - About 页面：https://www.timesflow.app/about
 - 发布页：https://www.timesflow.app/releases
 - 新闻页：https://www.timesflow.app/news
-
